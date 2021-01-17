@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/karthik/mindroit/MindroitUser/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "343"
+                    }
+                }
+            ]
+        }
+    ]
+}

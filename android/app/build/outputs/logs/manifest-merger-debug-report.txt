@@ -1,0 +1,449 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/bd2cab46fd45b530a274001375333ead/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_masked-view] /home/karthik/mindroit/MindroitUser/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_viewpager] /home/karthik/mindroit/MindroitUser/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/karthik/mindroit/MindroitUser/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-reanimated] /home/karthik/mindroit/MindroitUser/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/karthik/mindroit/MindroitUser/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/karthik/mindroit/MindroitUser/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-syan-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-syan-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-vector-icons] /home/karthik/mindroit/MindroitUser/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] /home/karthik/.gradle/caches/transforms-2/files-2.1/cf40cff6a25d93c9f23726da4c18aeab/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /home/karthik/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/40741ffe3de6a11d99116b4e82d60d46/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/03aa51752e7d7098a02114b07907dabd/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/e9f56679cbe795a6f7c93e9a035f66f2/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/559ddc4b7f576fedc63e05921b88e895/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0288f1bca211d259126211029f92054c/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/766471e6648d662c31b10c1bbc5126fe/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/57a87fccccbdbe36e69f72b01ce521f1/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0abe31decb23fc939dbab3bf21d1ccec/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/3b508a8e13388bdc4e88ee330cec4cdc/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/104429b66e46c675401dada578683150/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/fe90bfac000734a7d0d9c150b7915ff6/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/34efa7b8fb78d46cf2b753de7fbfc5a5/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/237bbc58c0787eee6b78f947e2baeeaa/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/65f592cbf7e10992754db73be6c6ba25/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.troZee:ViewPager2:v1.0.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/9f0a1ddd567a42b337af5385a7ffcb54/ViewPager2-v1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:2:1-61:12
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/f06e90f9ef4e769300d0525f7658a021/ucrop-2.5.6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.0.0-alpha10] /home/karthik/.gradle/caches/transforms-2/files-2.1/ae6bdcb633ca9cfc8af140a1c35ced5a/camera-view-1.0.0-alpha10/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0c2c732abf3aa7eb8123968ecc468883/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/b1b165607eae60d70e4267b97e24514b/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/28888a6f6660db47b3788df392c672a7/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/efb592adf2592d134c27edc4a56e19d2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/8cd6316737e8f518184be95be51b9ee8/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/37aaca75d3d19faa6fb296103cea95d8/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c062602fe4e1f75f724363688044d993/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c99af001058cd5265376dded8456f828/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/4300f0cd89d6453d731712a999b6e53f/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/40f1c5d439eea30faeaafe93e7bdf45f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/faa15558a5d57e35e462c9e1f0248694/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/89bcabef273c834c0566b445ed28172c/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/e0a79d4379c4eef3803202a497c19313/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/6bd464ed06f075f4e42b3fde6a89e60a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta03] /home/karthik/.gradle/caches/transforms-2/files-2.1/f41490e73cf0ba46be7b2342829ab74b/camera-lifecycle-1.0.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/ac0110eb9d81b065dede245cad6c6edc/transition-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.0.0-beta03] /home/karthik/.gradle/caches/transforms-2/files-2.1/55f5610cad45cc1988f8a006cb5747b2/camera-core-1.0.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/4f3e3536c8bf9e8cb1939d2a5eeaba3a/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/cd739968687e1f0234c3ac3ee92e7be1/exifinterface-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/3b41f2ef3d4a30256bbd9d1017371108/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/db36fbbf4470b1ce63fe644e40ae81d3/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/304e6293e0820147023aa187c0f862e1/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/7ce8a2eb9e81825ec9bcc373c597a746/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/3d5c1e204ac62dc0f6d5059f5e3eaa42/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c25094455c0934d11de1c5e111a8a2f1/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/124ee19a63f3e171c196264ecc845daa/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/4ce17f8b4390b23da9bedc3cee010ec1/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/342cdabb5ac546ae8caf9705533bd005/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/2ef959591ee3dfd7e7d0f130ebacb270/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/babedcb26ba2505096ea9fb87ec93180/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/4420c7e50cfc97f674e128d37462190d/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c114d4501470930b3986c4f9bd2da0fd/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] /home/karthik/.gradle/caches/transforms-2/files-2.1/5d5d05c97b7d76b17be9cd36e9a73757/annotation-experimental-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:6:1-76
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:6:18-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:7:1-77
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:7:18-74
+uses-permission#android.permission.CAMERA
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:8:1-61
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:8:18-58
+application
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-syan-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-syan-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-11:19
+MERGED from [:react-native-syan-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-syan-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-11:19
+MERGED from [com.facebook.react:react-native:0.63.4] /home/karthik/.gradle/caches/transforms-2/files-2.1/cf40cff6a25d93c9f23726da4c18aeab/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /home/karthik/.gradle/caches/transforms-2/files-2.1/cf40cff6a25d93c9f23726da4c18aeab/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:13:5-59:19
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:13:5-59:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0c2c732abf3aa7eb8123968ecc468883/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0c2c732abf3aa7eb8123968ecc468883/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/4f3e3536c8bf9e8cb1939d2a5eeaba3a/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/4f3e3536c8bf9e8cb1939d2a5eeaba3a/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c25094455c0934d11de1c5e111a8a2f1/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c25094455c0934d11de1c5e111a8a2f1/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/4f3e3536c8bf9e8cb1939d2a5eeaba3a/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:11:7-39
+	tools:ignore
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:13:7-52
+	tools:targetApi
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.mindroituser.MainActivity
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:16:7-26:18
+	android:label
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:launchMode
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:20:9-40
+	android:windowSoftInputMode
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:19:9-86
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/bd2cab46fd45b530a274001375333ead/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/bd2cab46fd45b530a274001375333ead/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_masked-view] /home/karthik/mindroit/MindroitUser/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/karthik/mindroit/MindroitUser/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] /home/karthik/mindroit/MindroitUser/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_viewpager] /home/karthik/mindroit/MindroitUser/node_modules/@react-native-community/viewpager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/karthik/mindroit/MindroitUser/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/karthik/mindroit/MindroitUser/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/karthik/mindroit/MindroitUser/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/karthik/mindroit/MindroitUser/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/karthik/mindroit/MindroitUser/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/karthik/mindroit/MindroitUser/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/karthik/mindroit/MindroitUser/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/karthik/mindroit/MindroitUser/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-syan-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-syan-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-syan-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-syan-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-vector-icons] /home/karthik/mindroit/MindroitUser/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/karthik/mindroit/MindroitUser/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/karthik/.gradle/caches/transforms-2/files-2.1/cf40cff6a25d93c9f23726da4c18aeab/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/karthik/.gradle/caches/transforms-2/files-2.1/cf40cff6a25d93c9f23726da4c18aeab/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /home/karthik/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/karthik/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/40741ffe3de6a11d99116b4e82d60d46/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/40741ffe3de6a11d99116b4e82d60d46/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/03aa51752e7d7098a02114b07907dabd/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/03aa51752e7d7098a02114b07907dabd/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/e9f56679cbe795a6f7c93e9a035f66f2/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/e9f56679cbe795a6f7c93e9a035f66f2/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/559ddc4b7f576fedc63e05921b88e895/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/559ddc4b7f576fedc63e05921b88e895/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0288f1bca211d259126211029f92054c/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0288f1bca211d259126211029f92054c/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/766471e6648d662c31b10c1bbc5126fe/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/766471e6648d662c31b10c1bbc5126fe/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/57a87fccccbdbe36e69f72b01ce521f1/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/57a87fccccbdbe36e69f72b01ce521f1/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0abe31decb23fc939dbab3bf21d1ccec/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0abe31decb23fc939dbab3bf21d1ccec/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/3b508a8e13388bdc4e88ee330cec4cdc/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/3b508a8e13388bdc4e88ee330cec4cdc/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/104429b66e46c675401dada578683150/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/104429b66e46c675401dada578683150/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/fe90bfac000734a7d0d9c150b7915ff6/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/fe90bfac000734a7d0d9c150b7915ff6/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/34efa7b8fb78d46cf2b753de7fbfc5a5/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/34efa7b8fb78d46cf2b753de7fbfc5a5/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/237bbc58c0787eee6b78f947e2baeeaa/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/237bbc58c0787eee6b78f947e2baeeaa/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/65f592cbf7e10992754db73be6c6ba25/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/65f592cbf7e10992754db73be6c6ba25/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.troZee:ViewPager2:v1.0.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/9f0a1ddd567a42b337af5385a7ffcb54/ViewPager2-v1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.troZee:ViewPager2:v1.0.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/9f0a1ddd567a42b337af5385a7ffcb54/ViewPager2-v1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:8:5-11:173
+MERGED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:8:5-11:173
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/f06e90f9ef4e769300d0525f7658a021/ucrop-2.5.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LuckSiege.PictureSelector:ucrop:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/f06e90f9ef4e769300d0525f7658a021/ucrop-2.5.6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha10] /home/karthik/.gradle/caches/transforms-2/files-2.1/ae6bdcb633ca9cfc8af140a1c35ced5a/camera-view-1.0.0-alpha10/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha10] /home/karthik/.gradle/caches/transforms-2/files-2.1/ae6bdcb633ca9cfc8af140a1c35ced5a/camera-view-1.0.0-alpha10/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0c2c732abf3aa7eb8123968ecc468883/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/0c2c732abf3aa7eb8123968ecc468883/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/b1b165607eae60d70e4267b97e24514b/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/b1b165607eae60d70e4267b97e24514b/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/28888a6f6660db47b3788df392c672a7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/28888a6f6660db47b3788df392c672a7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/efb592adf2592d134c27edc4a56e19d2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/efb592adf2592d134c27edc4a56e19d2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/8cd6316737e8f518184be95be51b9ee8/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/8cd6316737e8f518184be95be51b9ee8/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/37aaca75d3d19faa6fb296103cea95d8/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/37aaca75d3d19faa6fb296103cea95d8/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c062602fe4e1f75f724363688044d993/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c062602fe4e1f75f724363688044d993/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c99af001058cd5265376dded8456f828/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c99af001058cd5265376dded8456f828/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/4300f0cd89d6453d731712a999b6e53f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/4300f0cd89d6453d731712a999b6e53f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/40f1c5d439eea30faeaafe93e7bdf45f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/40f1c5d439eea30faeaafe93e7bdf45f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/faa15558a5d57e35e462c9e1f0248694/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/faa15558a5d57e35e462c9e1f0248694/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/89bcabef273c834c0566b445ed28172c/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/89bcabef273c834c0566b445ed28172c/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/e0a79d4379c4eef3803202a497c19313/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/e0a79d4379c4eef3803202a497c19313/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/6bd464ed06f075f4e42b3fde6a89e60a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/6bd464ed06f075f4e42b3fde6a89e60a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta03] /home/karthik/.gradle/caches/transforms-2/files-2.1/f41490e73cf0ba46be7b2342829ab74b/camera-lifecycle-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta03] /home/karthik/.gradle/caches/transforms-2/files-2.1/f41490e73cf0ba46be7b2342829ab74b/camera-lifecycle-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/ac0110eb9d81b065dede245cad6c6edc/transition-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/ac0110eb9d81b065dede245cad6c6edc/transition-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta03] /home/karthik/.gradle/caches/transforms-2/files-2.1/55f5610cad45cc1988f8a006cb5747b2/camera-core-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta03] /home/karthik/.gradle/caches/transforms-2/files-2.1/55f5610cad45cc1988f8a006cb5747b2/camera-core-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/4f3e3536c8bf9e8cb1939d2a5eeaba3a/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/4f3e3536c8bf9e8cb1939d2a5eeaba3a/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/cd739968687e1f0234c3ac3ee92e7be1/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/cd739968687e1f0234c3ac3ee92e7be1/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/3b41f2ef3d4a30256bbd9d1017371108/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/3b41f2ef3d4a30256bbd9d1017371108/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/db36fbbf4470b1ce63fe644e40ae81d3/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/db36fbbf4470b1ce63fe644e40ae81d3/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/304e6293e0820147023aa187c0f862e1/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/304e6293e0820147023aa187c0f862e1/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/7ce8a2eb9e81825ec9bcc373c597a746/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/7ce8a2eb9e81825ec9bcc373c597a746/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/3d5c1e204ac62dc0f6d5059f5e3eaa42/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/3d5c1e204ac62dc0f6d5059f5e3eaa42/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c25094455c0934d11de1c5e111a8a2f1/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c25094455c0934d11de1c5e111a8a2f1/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/124ee19a63f3e171c196264ecc845daa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/124ee19a63f3e171c196264ecc845daa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/4ce17f8b4390b23da9bedc3cee010ec1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/4ce17f8b4390b23da9bedc3cee010ec1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/342cdabb5ac546ae8caf9705533bd005/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/342cdabb5ac546ae8caf9705533bd005/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/2ef959591ee3dfd7e7d0f130ebacb270/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/2ef959591ee3dfd7e7d0f130ebacb270/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/babedcb26ba2505096ea9fb87ec93180/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/babedcb26ba2505096ea9fb87ec93180/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/4420c7e50cfc97f674e128d37462190d/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/4420c7e50cfc97f674e128d37462190d/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c114d4501470930b3986c4f9bd2da0fd/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/c114d4501470930b3986c4f9bd2da0fd/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] /home/karthik/.gradle/caches/transforms-2/files-2.1/5d5d05c97b7d76b17be9cd36e9a73757/annotation-experimental-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] /home/karthik/.gradle/caches/transforms-2/files-2.1/5d5d05c97b7d76b17be9cd36e9a73757/annotation-experimental-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:11:9-170
+	android:targetSdkVersion
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:22-73
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+	android:resource
+		ADDED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from [:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+provider#com.luck.picture.lib.PictureFileProvider
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:14:9-22:20
+	android:grantUriPermissions
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:18:13-47
+	android:authorities
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:16:13-60
+	android:exported
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:15:13-68
+activity#com.luck.picture.lib.PictureSelectorActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:24:9-26:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:26:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:25:13-72
+activity#com.luck.picture.lib.PictureSelectorWeChatStyleActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:27:9-29:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:28:13-83
+activity#com.luck.picture.lib.PictureSelectorCameraEmptyActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:30:9-33:64
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:32:13-74
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:31:13-83
+activity#com.luck.picture.lib.PictureCustomCameraActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:34:9-36:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:36:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:35:13-76
+activity#com.luck.picture.lib.PicturePreviewActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:37:9-39:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:38:13-71
+activity#com.luck.picture.lib.PictureSelectorPreviewWeChatStyleActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:40:9-42:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:42:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:41:13-90
+activity#com.luck.picture.lib.PictureVideoPlayActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:43:9-46:50
+	android:screenOrientation
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:46:13-47
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:44:13-73
+activity#com.luck.picture.lib.PictureExternalPreviewActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:47:9-49:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:48:13-79
+activity#com.luck.picture.lib.PicturePlayAudioActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:50:9-52:77
+	android:configChanges
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:51:13-73
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:53:9-55:61
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:55:13-58
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:54:13-60
+activity#com.yalantis.ucrop.PictureMultiCuttingActivity
+ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:56:9-58:61
+	android:theme
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:58:13-58
+	android:name
+		ADDED from [com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:57:13-74

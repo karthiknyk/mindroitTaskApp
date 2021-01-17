@@ -1,0 +1,183 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mindroituser"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:6:1-76
+13-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:6:18-73
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:7:1-77
+14-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:7:18-74
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:8:1-61
+15-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:8:18-58
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->[com.facebook.flipper:flipper:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:5-76
+16-->[com.facebook.flipper:flipper:0.54.0] /home/karthik/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:22-73
+17
+18    <application
+18-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:9:5-28:19
+19        android:name="com.mindroituser.MainApplication"
+19-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:10:7-38
+20        android:allowBackup="false"
+20-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:14:7-34
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.1] /home/karthik/.gradle/caches/transforms-2/files-2.1/4f3e3536c8bf9e8cb1939d2a5eeaba3a/core-1.3.1/AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:12:7-41
+24        android:label="@string/app_name"
+24-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:11:7-39
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:13:7-52
+26        android:theme="@style/AppTheme"
+26-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:15:7-38
+27        android:usesCleartextTraffic="true" >
+27-->/home/karthik/mindroit/MindroitUser/android/app/src/debug/AndroidManifest.xml:7:18-53
+28        <activity
+28-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:16:7-26:18
+29            android:name="com.mindroituser.MainActivity"
+29-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:17:9-37
+30            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+30-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:19:9-86
+31            android:label="@string/app_name"
+31-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:18:9-41
+32            android:launchMode="singleTask"
+32-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:20:9-40
+33            android:windowSoftInputMode="adjustResize" >
+33-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:21:9-51
+34            <intent-filter>
+34-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:22:9-25:25
+35                <action android:name="android.intent.action.MAIN" />
+35-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:23:13-65
+35-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:23:21-62
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:24:13-73
+37-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:24:23-70
+38            </intent-filter>
+39        </activity>
+40        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+40-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:27:7-84
+40-->/home/karthik/mindroit/MindroitUser/android/app/src/main/AndroidManifest.xml:27:17-81
+41
+42        <provider
+42-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+43            android:name="com.imagepicker.ImagePickerProvider"
+43-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+44            android:authorities="com.mindroituser.imagepickerprovider"
+44-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+45            android:exported="false"
+45-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+46            android:grantUriPermissions="true" >
+46-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+47            <meta-data
+47-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+48                android:name="android.support.FILE_PROVIDER_PATHS"
+48-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+49                android:resource="@xml/imagepicker_provider_paths" />
+49-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+50        </provider>
+51        <provider
+51-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:14:9-22:20
+52            android:name="com.luck.picture.lib.PictureFileProvider"
+52-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:15:13-68
+53            android:authorities="com.mindroituser.provider"
+53-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:16:13-60
+54            android:exported="false"
+54-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:17:13-37
+55            android:grantUriPermissions="true" >
+55-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:18:13-47
+56            <meta-data
+56-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+57                android:name="android.support.FILE_PROVIDER_PATHS"
+57-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+58                android:resource="@xml/file_paths" />
+58-->[:react-native-image-picker] /home/karthik/mindroit/MindroitUser/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+59        </provider>
+60
+61        <activity
+61-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:24:9-26:77
+62            android:name="com.luck.picture.lib.PictureSelectorActivity"
+62-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:25:13-72
+63            android:configChanges="orientation|keyboardHidden|screenSize" />
+63-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:26:13-74
+64        <activity
+64-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:27:9-29:77
+65            android:name="com.luck.picture.lib.PictureSelectorWeChatStyleActivity"
+65-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:28:13-83
+66            android:configChanges="orientation|keyboardHidden|screenSize" />
+66-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:29:13-74
+67        <activity
+67-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:30:9-33:64
+68            android:name="com.luck.picture.lib.PictureSelectorCameraEmptyActivity"
+68-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:31:13-83
+69            android:configChanges="orientation|keyboardHidden|screenSize"
+69-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:32:13-74
+70            android:theme="@style/Picture.Theme.Translucent" />
+70-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:33:13-61
+71        <activity
+71-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:34:9-36:77
+72            android:name="com.luck.picture.lib.PictureCustomCameraActivity"
+72-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:35:13-76
+73            android:configChanges="orientation|keyboardHidden|screenSize" />
+73-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:36:13-74
+74        <activity
+74-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:37:9-39:77
+75            android:name="com.luck.picture.lib.PicturePreviewActivity"
+75-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:38:13-71
+76            android:configChanges="orientation|keyboardHidden|screenSize" />
+76-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:39:13-74
+77        <activity
+77-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:40:9-42:77
+78            android:name="com.luck.picture.lib.PictureSelectorPreviewWeChatStyleActivity"
+78-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:41:13-90
+79            android:configChanges="orientation|keyboardHidden|screenSize" />
+79-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:42:13-74
+80        <activity
+80-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:43:9-46:50
+81            android:name="com.luck.picture.lib.PictureVideoPlayActivity"
+81-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:44:13-73
+82            android:configChanges="orientation|keyboardHidden|screenSize"
+82-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:45:13-74
+83            android:screenOrientation="sensor" />
+83-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:46:13-47
+84        <activity
+84-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:47:9-49:77
+85            android:name="com.luck.picture.lib.PictureExternalPreviewActivity"
+85-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:48:13-79
+86            android:configChanges="orientation|keyboardHidden|screenSize" />
+86-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:49:13-74
+87        <activity
+87-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:50:9-52:77
+88            android:name="com.luck.picture.lib.PicturePlayAudioActivity"
+88-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:51:13-73
+89            android:configChanges="orientation|keyboardHidden|screenSize" />
+89-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:52:13-74
+90        <activity
+90-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:53:9-55:61
+91            android:name="com.yalantis.ucrop.UCropActivity"
+91-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:54:13-60
+92            android:theme="@style/Base.Theme.NoActionBar" />
+92-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:55:13-58
+93        <activity
+93-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:56:9-58:61
+94            android:name="com.yalantis.ucrop.PictureMultiCuttingActivity"
+94-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:57:13-74
+95            android:theme="@style/Base.Theme.NoActionBar" />
+95-->[com.github.LuckSiege.PictureSelector:picture_library:2.5.6] /home/karthik/.gradle/caches/transforms-2/files-2.1/acbc374083fe294bfcf1d565cfda90fc/picture_library-2.5.6/AndroidManifest.xml:58:13-58
+96    </application>
+97
+98</manifest>
