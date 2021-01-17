@@ -1,0 +1,2 @@
+# mindroitTaskApp
+Simple Assignment
