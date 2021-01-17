@@ -74,7 +74,7 @@ const Register = ({ navigation }) => {
     const saveUser = () => {
 
         //store data in local storage 
-        if (name != '' && email != '' && phone != '') {
+        if (name != '' && email != '' && phone != ''&& photo!='') {
 
             let data = {
                 name: name,
